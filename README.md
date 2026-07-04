@@ -123,3 +123,16 @@ graph TD
    .adk/
 
 ⚠ NEVER push .env to GitHub. Your API key will be exposed publicly.
+
+## Assets
+
+### Cover Page Banner
+![Cover Page Banner](file:///d:/adk_workspace/price-elasticity-bot/assets/cover_page_banner.png)
+
+### Workflow Diagram
+![Workflow Diagram](file:///d:/adk_workspace/price-elasticity-bot/assets/architecture_diagram.png)
+
+## Demo Script
+A spoken presentation narration is available in [DEMO_SCRIPT.txt](file:///d:/adk_workspace/price-elasticity-bot/DEMO_SCRIPT.txt). It provides a conversational walkthrough of the project, architecture diagram, and test payloads.
+
+
